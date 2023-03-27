@@ -1,0 +1,1 @@
+﻿Contract interface definitions for file access (e.g. save and open file UI operations).
