@@ -10,6 +10,8 @@
     <PackageReadmeFile>Nuget.md</PackageReadmeFile>
     <PackageTags>FileAccess Contracts</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <SignAssembly>True</SignAssembly>
+    <AssemblyOriginatorKeyFile>MDD4All_Github.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
 
   <ItemGroup>
