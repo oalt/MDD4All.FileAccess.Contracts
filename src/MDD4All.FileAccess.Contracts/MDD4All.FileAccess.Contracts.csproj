@@ -7,13 +7,13 @@
     <Company>MDD4All.de</Company>
     <Description>Contracts for file UI operations</Description>
     <Copyright>(c) MDD4All.de</Copyright>
-    <PackageReadmeFile>Nuegt.md</PackageReadmeFile>
+    <PackageReadmeFile>Nuget.md</PackageReadmeFile>
     <PackageTags>FileAccess Contracts</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="Nuegt.md">
+    <None Update="Nuget.md">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
     </None>
