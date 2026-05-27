@@ -4,6 +4,7 @@
     {
         bool ShowFileSaveDialog(out string selectedFilename, string defaultFielname = "",
                                 string defaultFileExtension = "",
+                                string initialDirectory = "",
                                 string filter = "All Files (*.*)|*.*",
                                 string title = "Save file...");
 
